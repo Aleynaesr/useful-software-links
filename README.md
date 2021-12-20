@@ -1,0 +1,1 @@
+# faydal-yaz-l-m-linkleri

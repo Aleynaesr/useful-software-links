@@ -4,3 +4,7 @@
 - [Dr.İsmail Durgun | Proje Yönetimi](https://uludag.edu.tr/dosyalar/tekstil/Seminer/Seminer_2019-2020_Guz/20191009_ismaildurgun.pdf)
 - [Android Studio Essentials](https://drive.google.com/drive/u/1/folders/1syvuw-tWnjIGql51qdcyit-YU62oCAtw)
 - [Mobil App Illustrations](https://undraw.co/illustrations)
+- [App Icon Generator](https://appicon.co/)
+- [Create Your Resume](https://flowcv.io/)
+- [App UI](https://dribbble.com/)
+- [Photoshop](https://www.photopea.com/)
